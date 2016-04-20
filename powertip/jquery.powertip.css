@@ -2,9 +2,9 @@
 #powerTip {
 	cursor: default;
 	background-color: #333;
-	background-color: rgba(0, 0, 0, 0.8);
+	background-color: #ffffe3;
 	border-radius: 6px;
-	color: #fff;
+	color: #000;
 	display: none;
 	padding: 10px;
 	position: absolute;
