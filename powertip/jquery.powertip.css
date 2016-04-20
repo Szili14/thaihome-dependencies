@@ -1,10 +1,9 @@
 /* PowerTip Plugin */
 #powerTip {
 	cursor: default;
-	background-color: #333;
-	background-color: #ffffe3;
+	background-color: #ffffab;
 	border-radius: 6px;
-    border: 1px solid #000;
+    border: 1px solid #ecaf06;
 	color: #000;
 	display: none;
 	padding: 10px;
@@ -29,22 +28,22 @@
 	top: 50%;
 }
 #powerTip.n:before {
-	border-top: 10px solid #333;
+	border-top: 10px solid #ecaf06;
 	border-top: 10px solid rgba(0, 0, 0, 0.8);
 	bottom: -10px;
 }
 #powerTip.e:before {
-	border-right: 10px solid #333;
+	border-right: 10px solid #ecaf06;
 	border-right: 10px solid rgba(0, 0, 0, 0.8);
 	left: -10px;
 }
 #powerTip.s:before {
-	border-bottom: 10px solid #333;
+	border-bottom: 10px solid #ecaf06;
 	border-bottom: 10px solid rgba(0, 0, 0, 0.8);
 	top: -10px;
 }
 #powerTip.w:before {
-	border-left: 10px solid #333;
+	border-left: 10px solid #ecaf06;
 	border-left: 10px solid rgba(0, 0, 0, 0.8);
 	right: -10px;
 }
@@ -59,18 +58,18 @@
 	right: 10px;
 }
 #powerTip.ne:before, #powerTip.nw:before {
-	border-top: 10px solid #333;
+	border-top: 10px solid #ecaf06;
 	border-top: 10px solid rgba(0, 0, 0, 0.8);
 	bottom: -10px;
 }
 #powerTip.se:before, #powerTip.sw:before {
-	border-bottom: 10px solid #333;
+	border-bottom: 10px solid #ecaf06;
 	border-bottom: 10px solid rgba(0, 0, 0, 0.8);
 	top: -10px;
 }
 #powerTip.nw-alt:before, #powerTip.ne-alt:before,
 #powerTip.sw-alt:before, #powerTip.se-alt:before {
-	border-top: 10px solid #333;
+	border-top: 10px solid #ecaf06;
 	border-top: 10px solid rgba(0, 0, 0, 0.8);
 	bottom: -10px;
 	border-left: 5px solid transparent;
@@ -83,7 +82,7 @@
 }
 #powerTip.sw-alt:before, #powerTip.se-alt:before {
 	border-top: none;
-	border-bottom: 10px solid #333;
+	border-bottom: 10px solid #ecaf06;
 	border-bottom: 10px solid rgba(0, 0, 0, 0.8);
 	bottom: auto;
 	top: -10px;
